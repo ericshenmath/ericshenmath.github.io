@@ -17,8 +17,8 @@ body {
     font-size: 17px;
     line-height: 1.65;
 
-    color: #aec5ac;
-    background-color: #82bc00;
+    color: #f7f7f7;
+    background-color: #aec5ac;
 }
 
 
@@ -41,7 +41,7 @@ a:hover {
    ======================================== */
 
 .site-header {
-    background-color: white;
+    background-color: #8bb592;
     border-bottom: 1px solid #97797a;
 }
 
