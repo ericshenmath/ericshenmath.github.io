@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Research</title>
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         HEADER / NAVIGATION
+         ========================= -->
+    <header class="site-header">
+
+        <div class="header-container">
+
+            <div class="site-title">
+                <a href="index.html">Eric Shen</a>
+            </div>
+
+            <nav class="navbar">
+                <a href="index.html">Home</a>
+                <a class="active" href="research.html">Research</a>
+                <a href="seminars.html">Seminars</a>
+                <a href="competitions.html">Competitions</a>
+                <a href="files/New_CV_Copy_1.pdf">CV</a>
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <!-- =========================
+         MAIN CONTENT
+         ========================= -->
+    <main class="container">
+
+
+        <section class="content-box">
+
+            <h2> Seminars </h2>
+
+      <p>
+        Here are some seminars I currently help organize.
+      </p>
+
+</section>
+
+        <section class="content-box">
+            
+      <h3> First Year Seminar </h3>
+
+      <p>
+        I am organizing the 2026-2027 First Year Seminar at Princeton.
+      </p>
+
+            </section>
+
+        
+
+</body>
+
+</html>
