@@ -37,13 +37,13 @@ a:hover {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding: 20px;
+    padding: 10px;
     background-color: #80b92e;
     border-bottom: 1px solid #97797a;
 }
 
 .site-header img {
-  width: 120px;
+  width: 180px;
   height: auto;
 }
 
@@ -51,7 +51,7 @@ a:hover {
     max-width: 1000px;
     gap: 80px;
     margin: 0 auto;
-    padding: 18px 25px;
+    padding: 10px 25px;
 
     display: flex;
     justify-content: space-between;
