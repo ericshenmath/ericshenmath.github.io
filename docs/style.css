@@ -34,7 +34,7 @@ a:hover {
    ======================================== */
 
 .site-header {
-   display: flex;
+    display: flex;
     align-items: center;
     gap: 40px;
     padding: 20px;
@@ -43,7 +43,7 @@ a:hover {
 }
 
 .site-header img {
-  width: 80px;
+  width: 120px;
   height: auto;
 }
 
