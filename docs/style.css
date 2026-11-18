@@ -34,8 +34,17 @@ a:hover {
    ======================================== */
 
 .site-header {
+   display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
     background-color: #8bb592;
     border-bottom: 1px solid #97797a;
+}
+
+.site-header img {
+  width: 80px;
+  height: auto;
 }
 
 .header-container {
