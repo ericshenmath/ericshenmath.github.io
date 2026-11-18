@@ -36,7 +36,7 @@ a:hover {
 .site-header {
    display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
     padding: 20px;
     background-color: #8bb592;
     border-bottom: 1px solid #97797a;
